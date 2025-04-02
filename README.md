@@ -1,3 +1,4 @@
 # Hello 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amixedcolor)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={amixedcolor}&theme={default}]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amixedcolor)]
